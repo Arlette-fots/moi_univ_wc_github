@@ -1,0 +1,1 @@
+The SNGE8BFL dataset contains metadata not included in the SNGE8AFL file.
